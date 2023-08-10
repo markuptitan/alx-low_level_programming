@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
-*main - Entry point for the code
+*main - Entry point for the code 
 *Return: 1
 */
 
