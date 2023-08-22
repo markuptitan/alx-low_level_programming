@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
-*reset_to_98 - Entry point
+*reset_to_98 - Entry point of execurion
 *
 *Return: Always 0;
 *
