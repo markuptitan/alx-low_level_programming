@@ -2,4 +2,4 @@
 
 ---
 
-**Bold**0. strcat
+**0. strcat**
