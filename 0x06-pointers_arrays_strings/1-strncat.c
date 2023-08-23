@@ -26,5 +26,5 @@ n--;
 }
 if (n == 0)
 *ptr = '\0';
-return dest;
+return (dest);
 }
