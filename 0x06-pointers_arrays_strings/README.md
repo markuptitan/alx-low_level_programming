@@ -2,4 +2,6 @@
 
 ---
 
-**0. strcat**
+- **0. strcat**
+
+A fuction that takes two strings as an argument, adds them together and print the result.
