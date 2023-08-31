@@ -11,4 +11,8 @@ if (*s != '\0')
 _putchar(*s); /*Print the current character*/
 _puts_recursion(s + 1);
 }
+else
+{
+_putchar('\n');
+}
 }
