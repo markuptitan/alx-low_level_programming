@@ -1,6 +1,6 @@
 /**
 *print_alphabet - Entry point for printing the alphabet
-*@ch: Variable for printing the alphabet
+*@ch:
 */
 #include "main.h"
 
