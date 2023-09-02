@@ -14,10 +14,10 @@ for (i = 0; i < 10; i++)
 {
 for (j = 0; j < 26; j++)
 {
-putchar(letter);
+_putchar(letter);
 letter++;
 }
-putchar('\n');
+_putchar('\n');
 letter = 'a';
 }
 }
